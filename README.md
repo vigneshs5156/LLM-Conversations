@@ -30,12 +30,6 @@ The aim of this project is to **understand the inner workings** of the Transform
 
 ---
 
-## 📁 File Structure
-
-```bash
-📦 transformer-encoder-architecture
- └── encoder.py          # Full implementation of the encoder module
-
 ## 📁 Core Components
 
 | Component                        | Description                                                         |
